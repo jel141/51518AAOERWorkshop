@@ -1,0 +1,34 @@
+[
+  {
+    "id": "outline-item-0",
+    "indent": 0,
+    "location": "content/Testing .html",
+    "order": 0,
+    "parent": null,
+    "title": "Testing "
+  },
+  {
+    "id": "outline-item-2",
+    "indent": 0,
+    "location": "content/Figuring out how to use HAX.html",
+    "order": 1,
+    "parent": null,
+    "title": "Figuring out how to use HAX"
+  },
+  {
+    "id": "outline-item-3",
+    "indent": 0,
+    "location": "content/.html",
+    "order": 2,
+    "parent": null,
+    "title": "What do I want to add to my book"
+  },
+  {
+    "id": "outline-item-19",
+    "indent": 0,
+    "location": "content/.html (1)",
+    "order": 3,
+    "parent": null,
+    "title": ""
+  }
+]
